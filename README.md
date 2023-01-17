@@ -1,6 +1,6 @@
 # back-searchgpt
 
-Para el backend se 
+Para el backend se emplea NodeJs y  las apis de openAI
 
 ![image](https://user-images.githubusercontent.com/122845625/212797705-571f147e-47ab-44bc-85c3-5a972dcbf6e2.png)
 

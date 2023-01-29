@@ -6,3 +6,6 @@ Para el backend se emplea NodeJs y  las apis de openAI
 
 
 Link de la app en front (Angular): https://github.com/codemm16/front-searchgpt
+
+
+Gracias a Javascript Mastery por la inspiración
